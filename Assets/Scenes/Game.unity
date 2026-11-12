@@ -7655,7 +7655,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 18d91415f9ab3734a9c93922b7c28dcc, type: 3}
       propertyPath: m_Name
-      value: LEGO Zoo Entrance
+      value: Rahil_LEGOZooEntrance
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 18d91415f9ab3734a9c93922b7c28dcc, type: 3}
       propertyPath: m_StaticEditorFlags
